@@ -1,5 +1,5 @@
 # Hi there, I'm Cristian! 👋
-I’m a Data Scientist passionate about Machine Learning and Deep Learning. Here’s a snapshot of the world of Data Science!
+Hi, I’m Cristian, a Data Scientist with a Master’s degree in Data Science. Skilled in Python, SQL, and everything Data Analytics. I’m passionate about transforming data into actionable insights using Power BI, and I thrive in the world of Machine Learning and Deep Learning. Always exploring new ways to make data speak!
 
 ![Data Science Background](imagen_data_science.jpg)
 
