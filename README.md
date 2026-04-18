@@ -1,5 +1,9 @@
 # Hi there, I'm Cristian! 👋
-Hi, I’m Cristian, a Data Scientist and Data Engineer with a Master’s degree in Data Science and an AWS Solutions Architect certification. I’m skilled in Python, SQL, and advanced cloud tools like SageMaker, Bedrock, and Amazon Q. I have expertise in generative AI, leveraging Large Language Models (LLMs) to drive innovative solutions. Passionate about transforming data into actionable insights, I excel at delivering impactful visualizations with Power BI. Always staying up-to-date with the latest advancements in AI, I thrive in the dynamic worlds of Machine Learning, Deep Learning, and cutting-edge technologies.
+Hi, I’m Cristian, a Cloud Machine Learning & AI Engineer specializing in building end-to-end MLOps solutions and intelligent AI systems on AWS. I work extensively with services such as Amazon SageMaker, AWS Bedrock, and Bedrock AgentCore, designing and deploying scalable machine learning pipelines and production-ready AI applications.
+
+I have strong experience delivering full lifecycle ML projects (end to end) — from data engineering and model development to deployment, monitoring, and continuous improvement in cloud environments. I also specialize in building AI agents powered by Large Language Models (LLMs), enabling automation, reasoning systems, and generative AI solutions for real-world use cases.
+
+With a solid foundation in Python, SQL, and cloud architecture (AWS Solutions Architect certified), I focus on transforming data into robust, production-grade AI systems. I am passionate about MLOps, GenAI, and next-generation AI agents, always staying at the forefront of rapidly evolving cloud and AI technologies.
 
 ![Data Science Background](imagen_data_science.jpg)
 
